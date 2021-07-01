@@ -1,0 +1,14 @@
+.button {
+	font-size: 20px;
+	width: 100px;
+	cursor: pointer;
+	border-radius: 5px;
+	padding: 20px;
+	border-radius: 20px;
+}
+.button:not(:last-child) {
+	margin-right: 20px;
+}
+.button:hover {
+	background: linear-gradient(0deg, rgba(34,195,173,1) 0%, rgba(233,253,45,0.8112292921686747) 100%);
+}

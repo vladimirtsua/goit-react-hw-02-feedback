@@ -1,0 +1,11 @@
+.section {
+	text-align: center;
+}
+.section__title {
+	font-family: 'Roboto Slab';
+	font-weight: 400;
+	font-size: 36px;
+	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,0.8112292921686747) 100%);
+    border-radius: 20px;
+    padding: 10px;
+}
